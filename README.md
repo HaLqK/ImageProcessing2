@@ -32,3 +32,8 @@ http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_i
 https://algorithm.joho.info/programming/python/opencv-canny-edge-detecte-py/
 <br>　
 （グレースケールへの変換・エッジの検出のコード等）
+
+<br>
+・実行の様子<br>
+https://youtu.be/XG8tGDWs7xg
+
