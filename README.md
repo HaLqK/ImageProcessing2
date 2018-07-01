@@ -15,7 +15,7 @@ Canny法を用いてエッジを検出する.この時設定される閾値は�
 どちらかのキーが押されたときウィンドウを閉じる.<br>
 <br>
 ・依存ライブラリ
-<br>　　
+<br>
 Python 3.6.5
 <br>
 opencv 3.4.1　　
@@ -23,12 +23,12 @@ opencv 3.4.1　　
 numpy  1.14.5　　
 <br>
 参考サイト<br>　　
-Canny法によるエッジ検出 — OpenCV-Python Tutorials 1 documentation:
+Canny法によるエッジ検出 — OpenCV-Python Tutorials 1 documentation:<br>
 http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_imgproc/py_canny/py_canny.html
 <br>　
 (Cannyを扱う上での基礎知識)
 <br>
-【Python/OpenCV】Cannyアルゴリズムで輪郭検出:　　
+【Python/OpenCV】Cannyアルゴリズムで輪郭検出:<br>　
 https://algorithm.joho.info/programming/python/opencv-canny-edge-detecte-py/
 <br>　
 （グレースケールへの変換・エッジの検出のコード等）
