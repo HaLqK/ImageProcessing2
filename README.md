@@ -22,7 +22,7 @@ opencv 3.4.1　　
 <br>
 numpy  1.14.5　　
 <br>
-参考サイト<br>　　
+参考サイト<br>
 Canny法によるエッジ検出 — OpenCV-Python Tutorials 1 documentation:<br>
 http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_imgproc/py_canny/py_canny.html
 <br>　
